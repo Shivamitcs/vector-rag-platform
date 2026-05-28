@@ -14,6 +14,16 @@ Enterprise-grade Vector RAG platform engineered for semantic knowledge retrieval
 
 ---
 
+<p align="center">
+  <img 
+    src="./assets/banner/vector-rag-banner.png"
+    width="100%"
+    alt="Vector RAG Platform Banner"
+  />
+</p>
+
+---
+
 ## Platform Vision
 
 Vector RAG Platform is a modern AI knowledge infrastructure engineered to transform enterprise data into intelligent conversational experiences using semantic retrieval pipelines, vector embeddings, and Retrieval-Augmented Generation (RAG) workflows.
@@ -140,7 +150,7 @@ The platform integrates modern vector database infrastructure for scalable seman
 
 <p align="center">
   <img 
-    src="./assets/architecture/vector-rag-architecture.png"
+    src="./assets/architecture/vector-system-architecture.png"
     width="100%"
     alt="Vector RAG Architecture"
   />
